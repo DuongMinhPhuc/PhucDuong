@@ -7,8 +7,14 @@ package phucduongcom.myapplication;
 public class cuccuc {
 
     private  String jjj;
+
     private String thu;
     private String may1;
+
+    private  String taune;
+    private  String may2;
+
+
     public static void main(String[] args) {
 
     }
