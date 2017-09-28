@@ -7,7 +7,8 @@ package phucduongcom.myapplication;
 public class cuccuc {
 
     private  String jjj;
-
+    private String thu;
+    private String may1;
     public static void main(String[] args) {
 
     }
