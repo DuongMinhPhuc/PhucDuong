@@ -8,6 +8,7 @@ public class cuccuc {
 
     private  String jjj;
     private  String taune;
+    private  String may2;
 
     public static void main(String[] args) {
 
