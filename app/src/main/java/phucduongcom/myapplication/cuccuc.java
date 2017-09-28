@@ -5,4 +5,5 @@ package phucduongcom.myapplication;
  */
 
 public class cuccuc {
+    private  String jjj;
 }
