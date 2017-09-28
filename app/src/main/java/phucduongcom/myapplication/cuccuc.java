@@ -7,6 +7,7 @@ package phucduongcom.myapplication;
 public class cuccuc {
 
     private  String jjj;
+    private  String taune;
 
     public static void main(String[] args) {
 
