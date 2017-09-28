@@ -5,4 +5,8 @@ package phucduongcom.myapplication;
  */
 
 public class cuccuc {
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
